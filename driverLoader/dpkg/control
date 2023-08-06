@@ -1,0 +1,6 @@
+Package: driverloader
+Maintainer: Darwin Developers <darwin-development@public.lists.apple.com>
+Vendor: Apple Computer
+Version: 33
+Description: Driver loader
+Build-Depends: build-base, drivertools, driverkit, machkit, kernload, libstreams-hdrs, driverkit-hdrs
